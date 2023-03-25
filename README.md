@@ -1,2 +1,2 @@
-# ARDROID-RAS
-Room Automation System with Arduino &amp; Android
+Project Made for IEEE Inductions 2022
+
